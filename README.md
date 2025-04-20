@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/logo.png" alt="AskTube's Logo"/>
+  <img src="AskTude/docs/images/logo.png" alt="AskTube's Logo"/>
 </p>
 <p align="center">
   <strong>AskTube - An AI-powered YouTube video summarizer and QA assistant powered by Retrieval Augmented Generation (RAG) 🤖</strong>
