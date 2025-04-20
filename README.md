@@ -12,14 +12,14 @@
 ## 🏃🏽‍➡️ Demo & Screenshot
 
 <p align="center">
-  <img src="docs/images/demo-21.png" alt="Demo 21"/>
+  <img src="AskTude/docs/images/demo-21.png" alt="Demo 21"/>
 </p>
 <p align="center">
-  <img src="docs/images/demo-22.png" alt="Demo 22"/>
+  <img src="AskTude/docs/images/demo-22.png" alt="Demo 22"/>
 </p>
 
 <p align="center">
-  <img src="docs/images/demo-23.png" alt="Demo 23"/>
+  <img src="AskTude/docs/images/demo-23.png" alt="Demo 23"/>
 </p>
 
 
@@ -199,15 +199,15 @@ docker compose -f compose/ideal.yaml pull && docker compose -f compose/ideal.yam
 
 ### 1️⃣ Extract data from given URL
 
-![P1.png](docs/images/P1.png)
+![P1.png](AskTude/docs/images/P1.png)
 
 ### 2️⃣ Storing embedding chapter subtitles
 
-![P2.png](docs/images/P2.png)
+![P2.png](AskTude/docs/images/P2.png)
 
 ### 3️⃣ Asking (included enrich question)
 
-![P3.png](docs/images/P3.png)
+![P3.png](AskTude/docs/images/P3.png)
 
 ---
 
